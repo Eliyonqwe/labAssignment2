@@ -1,0 +1,8 @@
+E:\2nd Year\c#\labAssignment2\labclass333\labclass333\bin\Debug\labclass333.exe.config
+E:\2nd Year\c#\labAssignment2\labclass333\labclass333\bin\Debug\labclass333.exe
+E:\2nd Year\c#\labAssignment2\labclass333\labclass333\bin\Debug\labclass333.pdb
+E:\2nd Year\c#\labAssignment2\labclass333\labclass333\obj\Debug\labclass333.csproj.AssemblyReference.cache
+E:\2nd Year\c#\labAssignment2\labclass333\labclass333\obj\Debug\labclass333.csproj.SuggestedBindingRedirects.cache
+E:\2nd Year\c#\labAssignment2\labclass333\labclass333\obj\Debug\labclass333.csproj.CoreCompileInputs.cache
+E:\2nd Year\c#\labAssignment2\labclass333\labclass333\obj\Debug\labclass333.exe
+E:\2nd Year\c#\labAssignment2\labclass333\labclass333\obj\Debug\labclass333.pdb
